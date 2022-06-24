@@ -1,3 +1,3 @@
 # Shortest_path
 
-<img src="./Images/Shortestpath.png" >
+<img src= "Images/Shortestpath.png" width="900">
